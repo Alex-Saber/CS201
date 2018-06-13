@@ -15,3 +15,6 @@
 
 #### Lab 5
 * This Lab demonstrated your understanding of the floating point stack in order to write inline assembly code in order to solve quadratic equations.
+
+#### Final In Class Coding Project
+* This final was to code a program that uses inline assembly code to approximate the value of pi using the Monte Carlo Method.
